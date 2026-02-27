@@ -209,4 +209,32 @@ Valuable contributions include:
 
 ## Citation
 
-> tbd
+If you use this work, please cite:
+
+**TSM-Bench**
+```bibtex
+@inproceedings{
+quaremba2026tsmbench,
+title={{TSM}-Bench: Detecting {LLM}-Generated Text in Real-World Wikipedia Editing Practices},
+author={Gerrit Quaremba and Denny Vrandecic and Elizabeth Black and Elena Simperl},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=zimuL7ZmIi}
+}
+```
+
+**WETBench**
+```bibtex
+@inproceedings{quaremba-etal-2025-wetbench,
+    title = "{WETB}ench: A Benchmark for Detecting Task-Specific Machine-Generated Text on {W}ikipedia",
+    author = "Quaremba, Gerrit  and
+      Black, Elizabeth  and
+      Vrandecic, Denny  and
+      Simperl, Elena",
+    booktitle = "Proceedings of the 2nd Workshop on Advancing Natural Language Processing for Wikipedia (WikiNLP 2025)",
+    month = aug,
+    year = "2025",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.wikinlp-1.6/"
+}
+```
