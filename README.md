@@ -1,12 +1,12 @@
 # TSM-Bench: Detecting LLM-Generated Text in Real-World Wikipedia Editing Practices
 
+This repository contains the official implementation of our ICLR 2026 paper
+**TSM-Bench: Detecting LLM-Generated Text in Real-World Wikipedia Editing Practices**.
 
-This repository contains the official implementation of **TSM-Bench: Detecting LLM-Generated Text in Real-World Wikipedia Editing Practices**.
-
-<!-- Add link: [Paper Title]() -->
-
-🚧 Note: To ensure anonymity, we will release the data on Hugging Face after the review process.
-
+Please find our data on [HuggingFace](https://huggingface.co/datasets/GerritQ/tsm_bench).
+This includes the data introduced in our WikiNLP @ ACL 2025 paper
+**WETBench: A Benchmark for Detecting Task-Specific Machine-Generated Text on Wikipedia**,
+as well as the machine-generated text introduced with TSM-Bench.
 ---
 
 ## TSM-Bench
